@@ -14,4 +14,5 @@ while True:
     if opcao == "1":
         paciente = input("Digite o nome do Paciente: ")
         cadastro = 0
+
         print(f"Paciente {paciente} cadastrado com sucesso!")
